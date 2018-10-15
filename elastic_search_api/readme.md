@@ -33,6 +33,7 @@
 
 
 ### 3.Elasticsearch 环境部署安装
+首先，务必使用无root权限的账户进行下列操作！！！
 在Elasticsearch官网下载对应的版本,即6.4.1版本
 
 ![](./img/6.jpg)
